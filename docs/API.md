@@ -5,6 +5,8 @@ title: Bundling API
 
 ## Quick Start
 
+Hello !
+
 - Compile a file
 
   ```js
